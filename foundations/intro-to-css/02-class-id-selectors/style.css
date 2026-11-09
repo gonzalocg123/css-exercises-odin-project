@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(226, 5, 78);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special-font-size {
+    font-size: 28px;
+}
+
+#div-one {
+    color: rgb(16, 16, 228);
+    font-size: 36px;
+}
+
+#second-div {
+    background-color: rgb(223, 255, 162);
+    font-weight: bold;
+}
